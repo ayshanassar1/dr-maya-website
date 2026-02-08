@@ -10,6 +10,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 
+// Deployment trigger: Rebuild
 export default function Home() {
     return (
         <main className="w-full relative bg-greige-warm">
